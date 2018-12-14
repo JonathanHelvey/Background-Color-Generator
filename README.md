@@ -1,1 +1,1 @@
-# Background-Color-Generator
+# Background-Color-Generator . learned from "The Complete Web Developers Guide"
